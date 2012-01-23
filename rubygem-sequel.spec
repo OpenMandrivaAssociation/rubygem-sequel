@@ -48,7 +48,6 @@ Documents, RDoc & RI documentation for %{name}.
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/ado
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/do
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/odbc
-%dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/odbc
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/utils
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/shared
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/extensions
@@ -66,7 +65,6 @@ Documents, RDoc & RI documentation for %{name}.
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/jdbc/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/ado/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/do/*.rb
-%{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/odbc/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/odbc/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/utils/*.rb
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/adapters/shared/*.rb
