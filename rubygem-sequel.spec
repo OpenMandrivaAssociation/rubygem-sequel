@@ -88,3 +88,15 @@ Documents, RDoc & RI documentation for %{name}.
 %doc %{ruby_gemdir}/gems/%{rbname}-%{version}/doc/*.rdoc
 %doc %{ruby_gemdir}/gems/%{rbname}-%{version}/doc/release_notes/*.txt
 %doc %{ruby_gemdir}/doc/%{rbname}-%{version}
+
+
+%changelog
+* Wed Feb 15 2012 Per Øyvind Karlsen <peroyvind@mandriva.org> 3.31.0-2
++ Revision: 774161
+- mass rebuild of ruby packages against ruby 1.9.1
+
+* Mon Jan 23 2012 Alexander Khrukin <akhrukin@mandriva.org> 3.31.0-1
++ Revision: 767185
+- files listed twice fix
+- imported package rubygem-sequel
+
