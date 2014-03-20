@@ -55,7 +55,7 @@ Documents, RDoc & RI documentation for %{name}.
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/dataset
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/%{rbname}/connection_pool
 %{ruby_gemdir}/gems/%{rbname}-%{version}/bin/sequel
-%dir %{ruby_gemdir}/gems/%{rbname}-%{version}/doc
+# %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/doc
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/doc/release_notes
 %dir %{ruby_gemdir}/gems/%{rbname}-%{version}/lib
 %{ruby_gemdir}/gems/%{rbname}-%{version}/lib/*.rb
