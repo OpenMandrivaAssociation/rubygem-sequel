@@ -5,7 +5,7 @@ Summary:	The Database Toolkit for Ruby
 Name:		rubygem-%{rbname}
 
 Version:	3.31.0
-Release:	2
+Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
 URL:		http://sequel.rubyforge.org
