@@ -8,7 +8,7 @@ Version:	3.31.0
 Release:	3
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://sequel.rubyforge.org
+URL:		https://sequel.rubyforge.org
 Source0:	http://gems.rubyforge.org/gems/%{rbname}-%{version}.gem
 Source1:        %{name}.rpmlintrc
 BuildRequires:	rubygems 
